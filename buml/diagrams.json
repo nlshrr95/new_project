@@ -1,0 +1,104 @@
+{
+  "project": {
+    "id": "26f926d7-03f6-4871-81c9-44209e3e6aed",
+    "type": "Project",
+    "schemaVersion": 4,
+    "name": "New_Project",
+    "description": "Modern workspace project for UML, GUI and quantum modeling.",
+    "owner": "BESSER User",
+    "createdAt": "2026-09-17T13:08:17.249Z",
+    "currentDiagramType": "ClassDiagram",
+    "currentDiagramIndices": {
+      "ClassDiagram": 0,
+      "ObjectDiagram": 0,
+      "StateMachineDiagram": 0,
+      "AgentDiagram": 0,
+      "UserDiagram": 0,
+      "GUINoCodeDiagram": 0,
+      "QuantumCircuitDiagram": 0,
+      "NNDiagram": 0,
+      "BPMN": 0
+    },
+    "diagrams": {
+      "ClassDiagram": [
+        {
+          "id": "325e624f-a2f9-49c8-8550-7414abf75377",
+          "title": "Class Diagram",
+          "model": {
+            "version": "3.0.0",
+            "type": "ClassDiagram",
+            "size": {
+              "width": 1320,
+              "height": 620
+            },
+            "interactive": {
+              "elements": {},
+              "relationships": {}
+            },
+            "elements": {
+              "1edff086-511d-4e14-bc6d-8ca5751f2eed": {
+                "id": "1edff086-511d-4e14-bc6d-8ca5751f2eed",
+                "name": "Class",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -640,
+                  "y": -290,
+                  "width": 160,
+                  "height": 70
+                },
+                "attributes": [
+                  "3b0c0821-9bed-4e2a-8545-ae1e9f704a05"
+                ],
+                "methods": []
+              },
+              "3b0c0821-9bed-4e2a-8545-ae1e9f704a05": {
+                "id": "3b0c0821-9bed-4e2a-8545-ae1e9f704a05",
+                "name": "Attribute",
+                "type": "ClassAttribute",
+                "owner": "1edff086-511d-4e14-bc6d-8ca5751f2eed",
+                "bounds": {
+                  "x": -639.5,
+                  "y": -249.5,
+                  "width": 159,
+                  "height": 30
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              }
+            },
+            "relationships": {},
+            "assessments": {}
+          },
+          "lastUpdate": "2026-09-17T13:08:41.402Z"
+        }
+      ]
+    },
+    "settings": {
+      "defaultDiagramType": "ClassDiagram",
+      "autoSave": true,
+      "collaborationEnabled": false,
+      "perspectives": {
+        "ClassDiagram": true,
+        "ObjectDiagram": true,
+        "StateMachineDiagram": false,
+        "AgentDiagram": false,
+        "UserDiagram": false,
+        "GUINoCodeDiagram": false,
+        "QuantumCircuitDiagram": false,
+        "NNDiagram": false,
+        "BPMN": false
+      }
+    }
+  },
+  "exportedAt": "2026-09-17T13:08:53.285Z",
+  "version": "2.0.0"
+}
